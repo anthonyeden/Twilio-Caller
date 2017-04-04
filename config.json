@@ -1,0 +1,6 @@
+{
+    "TwilioAccountSID": "--REPLACE-ME--",
+    "TwilioAuthToken": "--REPLACE-ME--",
+    "CallFrom": "--REPLACE-ME--",
+    "MessageRepeatTimes": 4
+}
