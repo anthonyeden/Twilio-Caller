@@ -6,7 +6,7 @@ Ensure you have 32-bit Python 2.7 installed
 
 Delete build/ & dist/
 
-Run: pyinstaller -p libs -i phoneicon.ico --onefile dTwilioCaller.py
+Run: pyinstaller -p libs -i phoneicon.ico --version-file=version.py --onefile TwilioCaller.py
 
 Copy config.json & cacert.pem into dist/
 
